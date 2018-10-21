@@ -6,8 +6,7 @@ caption: 'Cortana'
 license_url: 'http://www.microsoft.com/en/mobile/experiences/cortana/#'
 license_text: Used with permission from Microsoft.
 categories:
-  - archetypes
-  - input-device
+  - assistant
 tags:
   - Microsoft
   - Software
