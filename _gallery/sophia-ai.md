@@ -1,3 +1,4 @@
+---
 author: PanagiotisTH
 title: sophia-ai
 image_url: /images/sophia-robot.jpg
