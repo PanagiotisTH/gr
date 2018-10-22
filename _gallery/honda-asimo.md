@@ -8,5 +8,5 @@ license_text: This file is licensed under the Creative Commons Attribution-Share
 categories:
   - Robot
 tags:
-  - Honda
+  - Honda.
 ---
