@@ -1,4 +1,5 @@
 ---
+
 author: PanagiotisTH
 title: sophia-robot
 image_url: /images/sophia-robot.jpg
@@ -11,4 +12,5 @@ categories:
   -Artificial Intelligence
 tags:
   - Hanson Robotics
+  
 ---
