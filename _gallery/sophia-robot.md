@@ -1,6 +1,6 @@
 ---
 author: PanagiotisTH
-title: sophia-ai
+title: sophia-robot
 image_url: /images/sophia-robot.jpg
 caption: ' Η Sophia είναι ενα ανθρωποειδές ρομπότ το οποιο δημιουργήθηκε απο την Hanson Robotics.
 Χρησιμοποιεί τεχνητή νοημοσύνη, οπτική επεξεργασία δεδομένων και αναγνώριση προσώπου,επίσης μιμείτε
