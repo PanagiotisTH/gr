@@ -1,5 +1,4 @@
 ---
-
 author: PanagiotisTH
 title: sophia-robot
 image_url: /images/sophia-robot.jpg
@@ -9,8 +8,6 @@ license_url: 'https://en.wikipedia.org/wiki/Sophia_(robot)'
 license_text: This file is licensed under the Creative Commons Attribution 2.0 Generic license.
 categories:
   - Robot
-  -Artificial Intelligence
 tags:
   - Hanson Robotics
-  
 ---
